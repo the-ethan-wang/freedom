@@ -3,8 +3,8 @@ from itertools import product
 import hashlib
 import time
 
-START_LENGTH = 4
-END_LENGTH = 4
+START_LENGTH = 5
+END_LENGTH = 5
 
 alphabet = list("abcdefghijklmnopqrstuvwxyz")
 alphabet_upper = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
